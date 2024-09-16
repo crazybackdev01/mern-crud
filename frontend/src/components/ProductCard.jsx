@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 /* eslint-disable react/prop-types */
 import { DeleteIcon, EditIcon } from "@chakra-ui/icons";
 import {
